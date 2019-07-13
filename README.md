@@ -1,4 +1,4 @@
-# Alloy-Optimizer--GA
+# Alloy-Optimizer--RNN
 The Sirius Alloy Company specializes in melting metals in certain ratios and selling these alloys to the manufacturing industry.  They produce four main alloys each consisting of different ratios of platinum, iron and copper. The selling price and the amount of electricity used (in kWh) to produce one kilogram of each alloy is displayed in Table 1, along with the percentages platinum, iron and copper of which the alloys consist.
 
 Alloy	Selling Price/kg	Platinum	Iron 	Copper	Electricity (kWh/kg)
